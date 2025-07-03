@@ -1,0 +1,23 @@
+DISCLAIMER
+
+This software is provided as-is for local development purposes only.
+
+It performs system-level changes to your Ubuntu system including:
+- Installing packages such as Apache, MariaDB, PHP, phpMyAdmin
+- Setting up services like MailHog, mkcert, and Xdebug
+- Writing to system paths such as /etc/apache2, /var/www, and /etc/hosts
+- Adding user to groups like www-data
+
+⚠️ USE THIS AT YOUR OWN RISK.
+
+The author assumes no responsibility or liability for:
+- Misconfiguration of your system
+- Data loss
+- Conflicts with other packages or services
+- Any security concerns from usage
+
+This tool is meant strictly for isolated, local development use — not for staging or production environments.
+
+By using this tool, you accept full responsibility for its effects on your system.
+
+See LICENSE file for terms of software use and distribution.
