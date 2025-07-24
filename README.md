@@ -4,7 +4,7 @@ A powerful, portable LAMP + WordPress development stack packaged as a `.deb` for
 
 This package sets up everything you need for rapid WordPress development in just minutes.
 
-Designed to work best with a fresh install of Ubuntu.
+Designed to work best with a fresh install of Ubuntu or other Debian based systems like Linux Mint.
 
 ---
 
